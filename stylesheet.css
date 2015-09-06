@@ -1,0 +1,57 @@
+.jumbotron {
+  position: relative;
+  background: #000 url("jumbotron-bg.png") center center;
+  width: 100%;
+  height: 35em;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.top {
+  text-align: center;
+
+  background-image: url("http://7-themes.com/data_images/out/67/6999936-cool-websites-background.jpg");
+}
+
+#thumbnailContainer {
+  background-image: url("http://bashooka.com/wp-content/uploads/2012/04/patterns_4.jpg")
+}
+
+.contactBanner {
+  color: white;
+}
+
+.body {
+  padding-top: 70px;
+  position: relative;
+}
+
+.thumbnail {
+  min-width: 300px;
+  min-height: 500px;
+  overflow: auto;
+  text-align: center;
+}
+
+.navbar navbar-inverse {
+  padding: 0px;
+}
+
+.button {
+  font: bold 12px/17px Helvetica, Arial, sans-serif;
+  padding: 5px 5px 5px 37px;
+  border: 1px solid #bfbfbf;
+  color: #000;
+  text-decoration: none;
+  background: #dcdcdc url(https://pbs.twimg.com/profile_images/562385977390272512/AK29YaTf.png) no-repeat scroll 1px center;
+  background-size: contain;
+}
+
+#intro {
+  padding-top: 10%;
+  color:rgb(128, 193, 183); 
+}
+
+#contactContainer {
+  background-image: url("http://7-themes.com/data_images/out/67/6999936-cool-websites-background.jpg");
+}
